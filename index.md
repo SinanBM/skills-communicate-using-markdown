@@ -10,3 +10,7 @@ Testing markdown syntax for headers. Plain text.
 Adding an image to the markdown file.
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+``` javascript
+var myVar = "Hello, world!";
+```
