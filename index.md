@@ -6,3 +6,7 @@
 ###### Header type 6 with 6 # symbols.
 
 Testing markdown syntax for headers. Plain text.
+
+Adding an image to the markdown file.
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
